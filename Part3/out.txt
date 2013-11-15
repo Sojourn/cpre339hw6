@@ -1,0 +1,3 @@
+Inside rectangle: 1
+Inside circle: 1
+Outside both: 0
